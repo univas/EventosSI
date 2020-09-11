@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Bem vindo à página de Eventos do curso de Sistemas de Informação da Univás
 
-You can use the [editor on GitHub](https://github.com/univas/EventosSI/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Acesse a página do curso de **[`Sistemas de Informação`](https://www.univas.edu.br/menu/ensino/graduacao/curso.asp?id=13)** da Univás para saber mais informações sobre o curso.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Próximos Eventos
 
-### Markdown
+Participe dos eventos do curso, é **gratuito :)**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## - Live com a ex-aluna [Fernanda Helena](https://www.linkedin.com/in/fernanda-helena-99738b67/) - 29 de setembro, às 19h
 
-# Header 1
-## Header 2
-### Header 3
+Tema da Live: **Segurança da Informação, ISO 27001 e LGPD: relação e tratamento dos dados**
 
-- Bulleted
-- List
+Link da live: _Será disponibilizado logo antes do evento_
 
-1. Numbered
-2. List
+## - Aguarde nossas próximas Lives
 
-**Bold** and _Italic_ and `Code` text
+Aguarde ...
 
-[Link](url) and ![Image](src)
-```
+### Contato
+Entre em contato com a gente. Fale com o coordenador através do email: `rrocha.roberto@gmail.com` ou pelo telefone `35-9-9837-8496`.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/univas/EventosSI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Curta nossa **[`página no Facebook`](https://www.facebook.com/SistemasUnivas/)**.
