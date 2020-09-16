@@ -4,10 +4,9 @@
 
 Acesse a página do curso de **[`Sistemas de Informação`](https://www.univas.edu.br/menu/ensino/graduacao/curso.asp?id=13)** da Univás para saber mais informações sobre o curso.
 
-## Próximos Eventos
-
 Participe dos eventos do curso, é **gratuito :)**
 
+## Próximos Eventos
 
 ## - Live com a ex-aluna [Fernanda Helena](https://www.linkedin.com/in/fernanda-helena-99738b67/) - 29 de setembro, às 19h
 
