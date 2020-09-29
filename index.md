@@ -8,11 +8,11 @@ Participe dos eventos do curso, é **gratuito :)**
 
 ## Próximos Eventos
 
-## - Live com a ex-aluna [Fernanda Helena](https://www.linkedin.com/in/fernanda-helena-99738b67/) - 29 de setembro, às 19h
+## - Live com a ex-aluna Fernanda Helena. Veja o [perfil no LinkedIn](https://www.linkedin.com/in/fernanda-helena-99738b67/) - 29 de setembro, às 19h
 
 Tema da Live: **Segurança da Informação, ISO 27001 e LGPD: relação e tratamento dos dados**
 
-Link da live: _Será disponibilizado logo antes do evento_
+### Link da live: [Aqui](https://teams.microsoft.com/l/meetup-join/19%3a358862f8e0d44d5a8babef0647514070%40thread.tacv2/1601387327313?context=%7b%22Tid%22%3a%22b8db375c-4870-4bac-9681-7689b94cf239%22%2c%22Oid%22%3a%22de7cdb1a-bafe-48b5-96d6-e9f55e841b58%22%7d)
 
 ## - Aguarde nossos próximos eventos...
 
@@ -20,4 +20,4 @@ Link da live: _Será disponibilizado logo antes do evento_
 ### Contato
 Entre em contato com a gente. Fale com o coordenador através do email: `rrocha.roberto@gmail.com` ou pelo telefone `35-9-9837-8496`.
 
-Curta nossa **[`página no Facebook`](https://www.facebook.com/Univas.edu)**.
+Curta nossas redes sociais **[`página no Facebook`](https://www.facebook.com/Univas.edu)** e [Instagram](instagram.com/univas_oficial).
