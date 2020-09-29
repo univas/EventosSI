@@ -8,7 +8,7 @@ Participe dos eventos do curso, é **gratuito :)**
 
 ## Próximos Eventos
 
-## - Live com a ex-aluna Fernanda Helena. Veja o [perfil no LinkedIn](https://www.linkedin.com/in/fernanda-helena-99738b67/) - 29 de setembro, às 19h
+## - Live com a ex-aluna Fernanda Helena - 29 de setembro, às 19h
 
 Tema da Live: **Segurança da Informação, ISO 27001 e LGPD: relação e tratamento dos dados**
 
