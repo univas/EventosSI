@@ -8,7 +8,7 @@ Participe dos eventos do curso, é **gratuito :)**
 
 ## Próximos Eventos
 
-## - Semana do Curso de Sistemas de Informação - de 16 a 20 de Novembro, às 19h
+## Semana do Curso de Sistemas de Informação - de 16 a 20 de Novembro, às 19h
 
 ### Agenda: [neste link](https://www.univas.edu.br/docs/2020/destaques/Univas_Web_Semana_SI_2020.pdf)
 
